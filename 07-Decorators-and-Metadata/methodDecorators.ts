@@ -18,7 +18,7 @@ class Calculator {
     return a + b;
   }
 
-  @Log
+  // @Log
   multiply(a: number, b: number): number {
     return a * b;
   }
